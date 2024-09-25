@@ -13,7 +13,7 @@ You can find the source code on GitHub (make sure to upload this project to your
 
 1. **Clone the Repo:**
    ```bash
-   git clone <your-github-repo-url>
+   git clone https://github.com/xDharmendra/AccuKnox-Assigment-For-Frontend-Trainees.git
    cd dynamic-dashboard
 
 2. **Install Dependencies::**
@@ -24,7 +24,9 @@ You can find the source code on GitHub (make sure to upload this project to your
    ```bash
    npm run dev
 
-4. **Access the App:**
+4. **Access the App: Open this address in your browser**
    ```bash
-   Open http://localhost:3000 in your browser.
+    http://localhost:3000 
+
+    
 
