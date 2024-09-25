@@ -14,7 +14,6 @@ You can find the source code on GitHub (make sure to upload this project to your
 1. **Clone the Repo:**
    ```bash
    git clone https://github.com/xDharmendra/AccuKnox-Assigment-For-Frontend-Trainees.git
-   cd dynamic-dashboard
 
 2. **Install Dependencies::**
    ```bash
