@@ -23,6 +23,7 @@ function App() {
             path="/dashboard"
             element={<Dashboard searchQuery={searchQuery} />}
           />
+          <Route path="/dashboard" component={Dashboard} />
         </Routes>
       </Router>
     </Provider>
