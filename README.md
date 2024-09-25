@@ -7,7 +7,7 @@ This is a dynamic dashboard application built for the AccuKnox Frontend Trainees
 ## Running the Application
 
 ### a. Clone or Download Repository:
-You can find the source code on GitHub (make sure to upload this project to your GitHub repository).
+You can find the source code on GitHub.
 
 ### b. Steps to Run the App Locally:
 
