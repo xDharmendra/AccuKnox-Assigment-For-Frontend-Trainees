@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Assignmnet Accuknox
 
 ### 1.Create a Json to build this dashboard / widget dynamically. Json should contain categories and each category can contain multiple widgets.
@@ -6,3 +7,7 @@
 ### 4. Once the user clicks on +Add Widget, users should be able to add Widget name, widget text , and it should be added to that category.
 ### 5. On each widget, we can have a cross icon to remove it from a category or users can go to add category section and uncheck from category list
 ### 6. Users should be able to search in a list of all the widgets.
+=======
+# AccuKnox-Assigment-For-Frontend-Trainees
+This is an assignment that has been created for AccuKnox frontend trainees.
+>>>>>>> 4b0a38a850c7f75bc25fe5890e249fe01ec444ed
